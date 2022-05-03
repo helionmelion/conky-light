@@ -28,7 +28,7 @@ memory and storage:
   - partition usage info and bar (customized to) root, /home, /hddold, /hddnew, /tmp
   - memory info bar
   - swap info bar
-  - fan meter: (customized to) northbridge [NB], motherboard [MB], GPU
+  - temperature meter (customized to) northbridge [NB], motherboard [MB], GPU
 
 4TH PART
 I/O:
@@ -38,6 +38,7 @@ I/O:
 
 5TH PART
 miscelaneous:
+  - fan RPM meter (customized to) Chassis 1, Chassis 2, Power Supply, NorthBridge
   - Download info and history graph
   - Upload info and history graph
   - Updates if available

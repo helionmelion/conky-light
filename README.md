@@ -46,3 +46,4 @@ miscelaneous:
   - vnstat net traffic usage history list (customized to enp7s1)
   - calendar
 
+![2022-07-21-143925_grim](https://user-images.githubusercontent.com/25272493/180279747-8ed4625a-288a-4d35-98b7-ecb557117e9f.png)
